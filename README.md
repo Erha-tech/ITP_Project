@@ -71,3 +71,7 @@ Programmed the complex vector rendering for the Player spaceship using 9 polygon
 Utilized mathematical functions (math module and trigonometry) for procedural generation of unique asteroid shapes with randomized craters.
 
 Applied polymorphism: the update() method behaves uniquely for obstacles (gravitational descent) and the starfield system (cosmic parallax effect with varying brightness and movement speeds).
+Screenshots:
+<img width="487" height="604" alt="image" src="https://github.com/user-attachments/assets/6ba2a956-5c26-4afb-a529-01e3d7983090" />
+<img width="485" height="617" alt="image" src="https://github.com/user-attachments/assets/8c935894-e62a-48cf-91b4-4e65857a87f3" />
+
