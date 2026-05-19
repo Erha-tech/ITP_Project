@@ -22,7 +22,7 @@ def load_high_score():
 
     except (json.JSONDecodeError, IOError) as e:
         # Если файл поврежден или его не удалось прочитать
-        print(f"Ошибка чтения файла: {e}")
+        print(f"Ошибка чтения файла рекордов: {e}")
         return 0
 
 
